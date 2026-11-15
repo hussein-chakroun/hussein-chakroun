@@ -33,7 +33,7 @@ I care about systems that do real work: clear architecture, maintainable code, t
 ### Selected projects
 
 **Forge — developer CLI tooling**  
-A command-line project focused on developer workflows and automation. [Explore the Forge repositories](https://github.com/hussein-chakroun/forgez).
+A command-line project focused on developer workflows and automation.
 
 **Forge LLM — LLM engineering**  
 Work exploring practical LLM integration and AI-assisted developer workflows. Some ongoing work is private.
